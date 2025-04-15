@@ -1,2 +1,24 @@
 # ria-transfer-money-tests
 QA Test to Ria Transfer Money
+
+
+1- BELOW MINIMUM AMOUNT
+
+2- ABOVE MAXIMUM AMOUNT
+
+3-  TESTING WITH VALUE = "025"
+
+4- TESTING WITH VALUE = "15.000"
+
+5- TESTING WITH VALUE = ",7"
+
+6- TESTING WITH VALUE = "410,7"
+
+7- TESTING WITH VALUE = "0,99"
+
+8- TESTING WITH VALUE = "+"
+
+9- TESTING WITH VALUE = ""
+
+
+
